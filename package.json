@@ -1,7 +1,7 @@
 {
   "name": "webite-react1.0",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://raimoncoding.github.io/website-react1.2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
