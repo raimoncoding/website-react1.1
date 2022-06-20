@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/website-react1.1/static/css/main.04276f08.css",
-    "main.js": "/website-react1.1/static/js/main.b9ea72df.js",
-    "static/media/hands.webp": "/website-react1.1/static/media/hands.1e058dec972335342975.webp",
-    "static/media/blog.webp": "/website-react1.1/static/media/blog.148532eb3116537cc970.webp",
-    "static/media/code.webp": "/website-react1.1/static/media/code.13cada2fcd06230b55ee.webp",
-    "static/media/responsive.webp": "/website-react1.1/static/media/responsive.bd935f430b40ed34fe1b.webp",
-    "static/media/example2.webp": "/website-react1.1/static/media/example2.43aa140a3c54bf41b76b.webp",
-    "static/media/contact.webp": "/website-react1.1/static/media/contact.1e6a737ee16d4b99455e.webp",
-    "static/media/printer.webp": "/website-react1.1/static/media/printer.5395878ec0b20124b8a1.webp",
-    "static/media/example4.webp": "/website-react1.1/static/media/example4.73a48866facb256f9098.webp",
-    "static/media/example3.webp": "/website-react1.1/static/media/example3.1be269e0a4351add336e.webp",
-    "static/media/developer.webp": "/website-react1.1/static/media/developer.d4f62dae6e9244a36b73.webp",
-    "static/media/cover.webp": "/website-react1.1/static/media/cover.5691b6d61e649ffdb3db.webp",
-    "static/media/raimon.webp": "/website-react1.1/static/media/raimon.71513ee4f6c6fb65e7ad.webp",
-    "index.html": "/website-react1.1/index.html",
-    "main.04276f08.css.map": "/website-react1.1/static/css/main.04276f08.css.map",
-    "main.b9ea72df.js.map": "/website-react1.1/static/js/main.b9ea72df.js.map"
+    "main.css": "/website-react1.2/static/css/main.04276f08.css",
+    "main.js": "/website-react1.2/static/js/main.4d30a535.js",
+    "static/media/hands.webp": "/website-react1.2/static/media/hands.1e058dec972335342975.webp",
+    "static/media/blog.webp": "/website-react1.2/static/media/blog.148532eb3116537cc970.webp",
+    "static/media/code.webp": "/website-react1.2/static/media/code.13cada2fcd06230b55ee.webp",
+    "static/media/responsive.webp": "/website-react1.2/static/media/responsive.bd935f430b40ed34fe1b.webp",
+    "static/media/example2.webp": "/website-react1.2/static/media/example2.43aa140a3c54bf41b76b.webp",
+    "static/media/contact.webp": "/website-react1.2/static/media/contact.1e6a737ee16d4b99455e.webp",
+    "static/media/printer.webp": "/website-react1.2/static/media/printer.5395878ec0b20124b8a1.webp",
+    "static/media/example4.webp": "/website-react1.2/static/media/example4.73a48866facb256f9098.webp",
+    "static/media/example3.webp": "/website-react1.2/static/media/example3.1be269e0a4351add336e.webp",
+    "static/media/developer.webp": "/website-react1.2/static/media/developer.d4f62dae6e9244a36b73.webp",
+    "static/media/cover.webp": "/website-react1.2/static/media/cover.5691b6d61e649ffdb3db.webp",
+    "static/media/raimon.webp": "/website-react1.2/static/media/raimon.71513ee4f6c6fb65e7ad.webp",
+    "index.html": "/website-react1.2/index.html",
+    "main.04276f08.css.map": "/website-react1.2/static/css/main.04276f08.css.map",
+    "main.4d30a535.js.map": "/website-react1.2/static/js/main.4d30a535.js.map"
   },
   "entrypoints": [
     "static/css/main.04276f08.css",
-    "static/js/main.b9ea72df.js"
+    "static/js/main.4d30a535.js"
   ]
 }
