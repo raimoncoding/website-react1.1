@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/raimoncoding/website-react1.1/static/css/main.04276f08.css",
-    "main.js": "/raimoncoding/website-react1.1/static/js/main.82b3c401.js",
+    "main.js": "/raimoncoding/website-react1.1/static/js/main.b686ead4.js",
     "static/media/hands.webp": "/raimoncoding/website-react1.1/static/media/hands.1e058dec972335342975.webp",
     "static/media/blog.webp": "/raimoncoding/website-react1.1/static/media/blog.148532eb3116537cc970.webp",
     "static/media/code.webp": "/raimoncoding/website-react1.1/static/media/code.13cada2fcd06230b55ee.webp",
@@ -16,10 +16,10 @@
     "static/media/raimon.webp": "/raimoncoding/website-react1.1/static/media/raimon.71513ee4f6c6fb65e7ad.webp",
     "index.html": "/raimoncoding/website-react1.1/index.html",
     "main.04276f08.css.map": "/raimoncoding/website-react1.1/static/css/main.04276f08.css.map",
-    "main.82b3c401.js.map": "/raimoncoding/website-react1.1/static/js/main.82b3c401.js.map"
+    "main.b686ead4.js.map": "/raimoncoding/website-react1.1/static/js/main.b686ead4.js.map"
   },
   "entrypoints": [
     "static/css/main.04276f08.css",
-    "static/js/main.82b3c401.js"
+    "static/js/main.b686ead4.js"
   ]
 }
