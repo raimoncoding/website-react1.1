@@ -17,7 +17,7 @@ function App() {
   <BrowserRouter basename={process.env.PUBLIC_URL}>
   <ScrollToTop />
   <NavbarHome />
-  <Routes>
+  <Routes basename={process.env.PUBLIC_URL}>
   <Route path="/" element={<Home />} />
   <Route path="/Services" element={<Services />} />
   <Route path="/About" element={< About />} />
